@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    background-color:#6aab76;
+}
+h1{
+   font-family: 'Caveat', cursive;
+   font-size:60px;
+}
+
+.magnify img{
+    width:350px;
+    height:300px;
+}
+
+.giffPic img{
+    width:350px;
+    height:300px;
+    display:none;
+}
+
+.lochness img{
+    display:none;
+    width: 350px;
+    height:300px;
+}
+
+.scrtMess{
+    display: none;
+    font-family: 'Kalam', cursive;
+}
+
+.hovMess{
+    display: none;
+    font-family: 'Kalam', cursive;
+}
+
+.giffMess{
+    display:none;
+    font-family: 'Kalam', cursive;
+}
+
+.lochmess{
+    display:none;
+    font-family: 'Kalam', cursive;
+}
+
+.clkMe button {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    border-color: #167066;
+    background-color: #6a9cab;
+}
+
